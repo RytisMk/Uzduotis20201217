@@ -1,0 +1,11 @@
+C:\testukas\bin\Debug\netcoreapp3.1\testukas.exe
+C:\testukas\bin\Debug\netcoreapp3.1\testukas.deps.json
+C:\testukas\bin\Debug\netcoreapp3.1\testukas.runtimeconfig.json
+C:\testukas\bin\Debug\netcoreapp3.1\testukas.runtimeconfig.dev.json
+C:\testukas\bin\Debug\netcoreapp3.1\testukas.dll
+C:\testukas\bin\Debug\netcoreapp3.1\testukas.pdb
+C:\testukas\obj\Debug\netcoreapp3.1\testukas.csprojAssemblyReference.cache
+C:\testukas\obj\Debug\netcoreapp3.1\testukas.AssemblyInfoInputs.cache
+C:\testukas\obj\Debug\netcoreapp3.1\testukas.AssemblyInfo.cs
+C:\testukas\obj\Debug\netcoreapp3.1\testukas.dll
+C:\testukas\obj\Debug\netcoreapp3.1\testukas.pdb
